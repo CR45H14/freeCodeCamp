@@ -20,3 +20,4 @@ GitHub is a company that provides Git repository hosting. That means that they p
 More than just a Git repository hosting service, GitHub is a [software forge](https://en.wikipedia.org/wiki/Forge_(software)). That means it also provides an [issue tracker](https://en.wikipedia.org/wiki/Issue_tracking_system), tools for [code review](https://en.wikipedia.org/wiki/Code_review), and other tools for collaborating with other people and creating software.
 
 GitHub isn't the only one to provide this kind of service. One of its major competitors is [GitLab](https://gitlab.com). For more on this, look at the [article about Git hosting](https://guide.freecodecamp.org/git/git-hosting).
+<!-- A. was here -->
